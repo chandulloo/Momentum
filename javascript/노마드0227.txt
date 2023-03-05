@@ -1,0 +1,68 @@
+Ramdom Number Game
+
+Generate a number between 0 and [number input 1]
+
+Guess the number: [number input 2] [Play! btn]
+
+play! submit 시 :
+
+You chose:  number input 2.value , the machine chose: 랜덤 숫자(계속 변경).
+
+You lost! or You win! 
+
+
+
+
+Keep your eyes on the stars and your feet on the ground. – Theodore Roosevelt
+
+별을 바라보고 땅을 밟는다. – 시오도르 루즈벨트
+
+
+Despite the forecast, live like it’s spring. –  Lilly Pulitzer
+
+일기예보에도 불구하고, 봄처럼 살아라. – 릴리 퓰리쳐
+
+
+
+Don’t be afraid to give up the good to go for the great. -John D. Rockefeller
+
+더 나은 것을 위해 좋은 것을 포기하는 걸 두려워 하지 마라. -존 록펠러
+
+
+
+All progress takes place outside the comfort zone. -Michael John Bobak
+
+모든 진보는 안전 구역 밖에서 이루어진다. – 마이클 존 보박
+
+
+The fastest way to change yourself is to hang out with people who are already the way you want to be. – Reid Hoffman
+
+자신을 가장 빨리 변화시키는 방법은 당신이 되고 싶은 모습을 하고 있는 사람들과 어울리는 것이다. – 리드 호프만
+
+
+
+If you really want to do something, you’ll find a way. If you do not, you’ll find an excuse. – Jim Rohn
+
+무언가를 정말 하고 싶다면, 당신은 방법을 찾을 것이다. 그렇지 않다면, 변명을 찾을 것이다. – 짐 론
+
+
+The die is cast. – Julius caesar
+
+– 주사위는 던져졌다. (줄리어스 시저)
+
+
+ Rome is not built in a day. – Anonymous
+
+– 로마는 하루아침에 만들어지는 것이 아니다. (익명)
+
+
+It is kind of fun to do the impossible. – Walt Disney
+
+-불가능을 하는 것은 좀 재미있다. (월트 디즈니)
+
+
+A mind troubled by doubt cannot focus on the course of victory. –  Arthur Golden
+
+– 의심으로 가득 찬 마음은 승리로의 여정에 집중할 수 없다. (아서 골든)
+
+

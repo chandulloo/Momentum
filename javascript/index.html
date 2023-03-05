@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="src/css/style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+
+
+    <form id="loginForm" class="a ">
+      <h3 id="helloName">Hello, What's your name?</h3>
+      <input autofocus id="name" class="input" type="text" >
+      <input type="text" style="display:none;">
+    </form> 
+    <!-- 조건: 이름 물어보고 > 그담에 헬로우 찬둘루랑 시계보여주기 -->
+    <h1 id="clock" class="hidden"></h1>
+
+    <h1  class="hello hidden" id="title"></h1>
+    <form id="todo-form" class="hidden">
+      <h3>What is your main focus for today?</h3>
+      <input type="text" class="input" placeholder="Write a To Do here"  required/>
+    </form>
+    <ul id="todo-list" ></ul>
+
+    <div id="weather">
+      <span></span>
+      <span></span>
+    </div>
+
+    <script src="src/js/background.js"></script>
+    <script src="src/js/clock.js"></script>
+    <script src="src/js/todo.js"></script>
+    <script src="src/js/weather.js"></script>
+  </body>
+</html>
